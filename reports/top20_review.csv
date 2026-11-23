@@ -1,0 +1,21 @@
+,award_value_euro,iso_country_code,cpv_div,title,authority,verdict,reason
+98711,13121471674.2,UK,85,,NHS Vale of York Clinical Commissioning Group,suspect,Far above the budget of one local health body; likely a framework ceiling
+345061,12708337925.71,UK,85,,"Birmingham City Council, Corporate Procurement Services",suspect,Far above one council's budget; likely a framework ceiling
+337415,10815000000.0,FR,60,,Syndicat des transports Île-de-France,plausible,"Large infrastructure, transport or defence contract"
+337413,8933900000.0,FR,60,,Syndicat des transports Île-de-France,plausible,"Large infrastructure, transport or defence contract"
+129654,8266284580.62,UK,75,,Defence Equipment & Support (DE&S),plausible,"Large infrastructure, transport or defence contract"
+272233,5631718866.42,UK,66,,Thames Water Utilities Limited,plausible,"Large infrastructure, transport or defence contract"
+60120,4523035379.7,UK,60,,Department for Transport,plausible,"Large infrastructure, transport or defence contract"
+305708,3209144499.64,IT,33,"Farmaci, emoderivati, mezzi di contrasto, emostatici, viscoelastici e prodotti dietetici: lotti da n. 1 a n. 1763 come da allegati agli atti di gara",Azienda Ospedaliera Spedali Civili di Brescia,suspect,"One row aggregates 1,763 drug lots (see title)"
+5460,2371816813.62,UK,45,20004350,Sellafield Ltd,plausible,"Large infrastructure, transport or defence contract"
+89373,2024282768.0,FR,34,,RATP,plausible,"Large infrastructure, transport or defence contract"
+41121,1934230684.45,UK,50,,Ministry of Defence,plausible,"Large infrastructure, transport or defence contract"
+54702,1898000000.0,HU,45,"IV. kerület Görgey Artúr u., út- és villamospálya felújítása",BKK Budapesti Közlekedési Központ Zártkörűen Működő Részvénytársaság,suspect,EUR 1.9B for renovating one street; likely HUF entered as EUR
+50396,1801926009.0,FR,45,"Dialogue compétitif pour la conception, la construction et l'exploitation du centre de valorisation organique et énergétique à Ivry-Paris XIII",Syctom Paris,plausible,"Large infrastructure, transport or defence contract"
+211954,1377714096.77,UK,70,,Council of the City of Sunderland,plausible,"Large infrastructure, transport or defence contract"
+153841,1294185129.42,PL,18,,Zakład Produkcyjno-Usługowo-Handlowy Lasów Państwowych,suspect,EUR 1.3B for clothing; likely wrong currency or extra digits
+292562,1239942687.09,UK,45,,Hyde Housing Association (The Hyde Group),suspect,Same value copied to several lots of one notice
+292563,1239942687.09,UK,45,,Hyde Housing Association (The Hyde Group),suspect,Same value copied to several lots of one notice
+292564,1239942687.09,UK,45,,Hyde Housing Association (The Hyde Group),suspect,Same value copied to several lots of one notice
+292565,1239942687.09,UK,45,,Hyde Housing Association (The Hyde Group),suspect,Same value copied to several lots of one notice
+292566,1239942687.09,UK,45,,Hyde Housing Association (The Hyde Group),suspect,Same value copied to several lots of one notice
